@@ -1,3 +1,0 @@
-<template>
-    ewrnbvl;dwmerk
-</template>
